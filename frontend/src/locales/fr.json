@@ -1,0 +1,109 @@
+{
+  "header": {
+    "home": "Accueil",
+    "about": "À propos",
+    "services": "Services",
+    "packages": "Forfaits",
+    "contact": "Contact"
+  },
+  "home": {
+    "heroTitle": "Découvrez le monde avec Horizon Travel",
+    "heroSubtitle": "De l'Europe aux plages tropicales, nous rendons vos vacances de rêve simples, abordables et inoubliables."
+  },
+  "about": {
+    "sectionTitle": "À propos",
+    "welcome": "Bienvenue chez",
+    "brandName": "Horizon Travel",
+    "paragraph1": "Chez Horizon Travel, nous aidons les voyageurs à créer des souvenirs inoubliables partout dans le monde. Des escapades week-end aux circuits de luxe, notre mission est de rendre chaque voyage fluide, excitant et unique.",
+    "paragraph2": "Avec des partenaires de confiance, des expériences sélectionnées et une équipe d'experts voyage dédiée, nous garantissons des vacances sans stress du moment de la réservation au retour. Europe, Asie, Amériques ou îles tropicales : nous sommes là pour vous.",
+    "firstClassFlights": "Vols première classe",
+    "handpickedHotels": "Hôtels sélectionnés",
+    "fiveStarAccommodations": "Hébergements 5 étoiles",
+    "latestModelVehicles": "Véhicules récents",
+    "premiumCityTours": "Plus de 150 visites de villes premium",
+    "customerSupport": "Assistance client 24h/24"
+  },
+  "services": {
+    "sectionTitle": "Services",
+    "title": "Nos services voyage",
+    "worldwideTours": "Circuits mondiaux",
+    "worldwideToursDesc": "Découvrez des destinations à couper le souffle aux États-Unis et ailleurs avec des forfaits sur mesure.",
+    "hotelReservations": "Réservations d'hôtels",
+    "hotelReservationsDesc": "Séjournez dans des hôtels et resorts sélectionnés aux meilleurs tarifs, avec des partenariats exclusifs aux États-Unis.",
+    "localGuides": "Guides locaux",
+    "localGuidesDesc": "Découvrez des pépites avec nos guides locaux experts qui rendent chaque voyage authentique et mémorable.",
+    "eventGroupTravel": "Voyages groupes et événements",
+    "eventGroupTravelDesc": "Des séminaires d'entreprise aux retrouvailles familiales, nous gérons tous les détails pour des événements sans stress."
+  },
+  "destination": {
+    "sectionTitle": "Destinations",
+    "title": "Destinations populaires",
+    "fromPrice": "À partir de",
+    "nights": "Nuits",
+    "weekendTrip": "Week-end"
+  },
+  "packages": {
+    "sectionTitle": "Forfaits",
+    "title": "Explorer plus",
+    "days": "Jours",
+    "persons": "Personnes",
+    "bookNow": "Réserver",
+    "norwayDesc": "Fjords, aurores boréales et paysages magnifiques. Randonnée, croisière et magie de la Scandinavie.",
+    "portugalDesc": "Lisbonne, Porto et la côte de l'Algarve. Villes historiques, plages et une cuisine d'exception.",
+    "maldivesDesc": "Bungalows sur pilotis, lagons cristallins et plages de sable blanc. L'évasion insulaire ultime."
+  },
+  "booking": {
+    "title": "Réservez votre voyage en ligne",
+    "personalDetails": "Informations personnelles",
+    "destination": "Destination",
+    "destinationPlaceholder": "Entrez votre destination",
+    "departureDate": "Date de départ",
+    "returnDate": "Date de retour",
+    "travelBudget": "Budget voyage",
+    "travelBudgetPlaceholder": "ex. 500 € - 2000 €",
+    "numberOfAdults": "Nombre d'adultes",
+    "numberOfChildren": "Nombre d'enfants",
+    "phoneNumber": "Téléphone",
+    "phonePlaceholder": "ex. +33 6 12 34 56 78",
+    "emailAddress": "Adresse e-mail",
+    "emailPlaceholder": "ex. jean.dupont@email.com",
+    "submit": "Envoyer"
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "breadcrumbHome": "Accueil",
+    "breadcrumbContact": "Contact",
+    "sectionTitle": "Contactez-nous",
+    "weAreHere": "Nous sommes là pour vous aider",
+    "intro": "Que vous planifiez vos vacances de rêve ou que vous ayez besoin d'informations, notre équipe est là pour répondre à vos questions. N'hésitez pas à nous contacter !",
+    "getInTouch": "Restons en contact",
+    "getInTouchDesc": "Nos experts voyage sont disponibles du lundi au samedi pour vous conseiller sur les forfaits, itinéraires sur mesure et réservations.",
+    "office": "Bureau",
+    "phone": "Téléphone",
+    "email": "E-mail",
+    "yourName": "Votre nom",
+    "yourEmail": "Votre e-mail",
+    "subject": "Sujet",
+    "message": "Message",
+    "messagePlaceholder": "Laissez un message ici",
+    "sendMessage": "Envoyer le message"
+  },
+  "error": {
+    "notFound": "Page introuvable",
+    "breadcrumbHome": "Accueil",
+    "pageNotFound": "Page introuvable",
+    "sorryMessage": "Désolé, la page que vous recherchez n'existe pas sur notre site. Retournez à l'accueil ou utilisez la recherche ?",
+    "goBackHome": "Retour à l'accueil"
+  },
+  "footer": {
+    "company": "Entreprise",
+    "aboutUs": "À propos",
+    "contactUs": "Contactez-nous",
+    "contact": "Contact",
+    "newsletter": "Newsletter",
+    "newsletterDesc": "Inscrivez-vous pour recevoir les offres, bons plans et conseils voyage dans votre boîte mail.",
+    "emailPlaceholder": "Votre e-mail",
+    "signUp": "S'inscrire",
+    "copyright": "© {{year}} Wander Travels. Tous droits réservés."
+  }
+}

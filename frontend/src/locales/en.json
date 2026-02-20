@@ -1,0 +1,109 @@
+{
+  "header": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "packages": "Packages",
+    "contact": "Contact"
+  },
+  "home": {
+    "heroTitle": "Discover the World with Horizon Travel",
+    "heroSubtitle": "From Europe to tropical beaches, we make your dream vacation simple, affordable, and unforgettable."
+  },
+  "about": {
+    "sectionTitle": "About Us",
+    "welcome": "Welcome to",
+    "brandName": "Horizon Travel",
+    "paragraph1": "At Horizon Travel, we've been helping travelers create unforgettable memories across the United States and around the globe. From weekend getaways to luxury tours, our mission is to make every journey seamless, exciting, and uniquely yours.",
+    "paragraph2": "With trusted partners, curated experiences, and a dedicated team of travel experts, we ensure your vacations are stress-free from the moment you book to the moment you return home. Europe, Asia, the Americas, or tropical islands — we have you covered.",
+    "firstClassFlights": "First Class Flights",
+    "handpickedHotels": "Handpicked Hotels",
+    "fiveStarAccommodations": "5 Star Accommodations",
+    "latestModelVehicles": "Latest Model Vehicles",
+    "premiumCityTours": "150+ Premium City Tours",
+    "customerSupport": "24/7 Customer Support"
+  },
+  "services": {
+    "sectionTitle": "Services",
+    "title": "Our Travel Services",
+    "worldwideTours": "Worldwide Tours",
+    "worldwideToursDesc": "Explore breathtaking destinations across the US and beyond with fully customized tour packages.",
+    "hotelReservations": "Hotel Reservations",
+    "hotelReservationsDesc": "Stay in handpicked hotels and resorts at the best rates, with exclusive partnerships across the US.",
+    "localGuides": "Local Travel Guides",
+    "localGuidesDesc": "Discover hidden gems with our expert local guides who make every trip authentic and memorable.",
+    "eventGroupTravel": "Event & Group Travel",
+    "eventGroupTravelDesc": "From corporate retreats to family reunions, we handle all the details so you can enjoy stress-free events."
+  },
+  "destination": {
+    "sectionTitle": "Destinations",
+    "title": "Popular Getaways",
+    "fromPrice": "From",
+    "nights": "Nights",
+    "weekendTrip": "Weekend Trip"
+  },
+  "packages": {
+    "sectionTitle": "Packages",
+    "title": "Discover more destinations",
+    "days": "Days",
+    "persons": "Persons",
+    "bookNow": "Book Now",
+    "norwayDesc": "Discover fjords, northern lights, and stunning landscapes. Hike, cruise, and experience the magic of Scandinavia.",
+    "portugalDesc": "Explore Lisbon, Porto, and the Algarve coast. Historic cities, beaches, and world-class cuisine await.",
+    "maldivesDesc": "Overwater bungalows, crystal-clear lagoons, and pristine beaches. The ultimate island escape."
+  },
+  "booking": {
+    "title": "Book Your Trip Online",
+    "personalDetails": "Personal Details",
+    "destination": "Destination",
+    "destinationPlaceholder": "Enter your destination",
+    "departureDate": "Departure Date",
+    "returnDate": "Return Date",
+    "travelBudget": "Travel Budget",
+    "travelBudgetPlaceholder": "e.g. $500 - $2000",
+    "numberOfAdults": "Number of Adults",
+    "numberOfChildren": "Number of Children",
+    "phoneNumber": "Phone Number",
+    "phonePlaceholder": "e.g. +1 555 123 4567",
+    "emailAddress": "Email Address",
+    "emailPlaceholder": "e.g. john.doe@email.com",
+    "submit": "Submit"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "breadcrumbHome": "Home",
+    "breadcrumbContact": "Contact",
+    "sectionTitle": "Contact Us",
+    "weAreHere": "We're Here to Help",
+    "intro": "Whether you're planning your dream getaway or just need more information, our team is here to answer your questions. Reach out to us anytime!",
+    "getInTouch": "Get In Touch",
+    "getInTouchDesc": "Our travel experts are available Monday–Saturday to guide you with packages, custom itineraries, and bookings.",
+    "office": "Office",
+    "phone": "Phone",
+    "email": "Email",
+    "yourName": "Your Name",
+    "yourEmail": "Your Email",
+    "subject": "Subject",
+    "message": "Message",
+    "messagePlaceholder": "Leave a message here",
+    "sendMessage": "Send Message"
+  },
+  "error": {
+    "notFound": "Not Found",
+    "breadcrumbHome": "Home",
+    "pageNotFound": "Page Not Found",
+    "sorryMessage": "We're sorry, the page you have looked for does not exist in our website! Maybe go to our home page or try to use a search?",
+    "goBackHome": "Go Back To Home"
+  },
+  "footer": {
+    "company": "Company",
+    "aboutUs": "About Us",
+    "contactUs": "Contact Us",
+    "contact": "Contact",
+    "newsletter": "Newsletter",
+    "newsletterDesc": "Subscribe to get the latest travel deals, offers, and tips straight to your inbox.",
+    "emailPlaceholder": "Your email",
+    "signUp": "Sign Up",
+    "copyright": "© {{year}} Wander Travels, All Rights Reserved."
+  }
+}
